@@ -1,6 +1,3 @@
-import urllib.request
-import os
-
 frequency_shift = 0
 list_of_frequencies = []
 i=0
